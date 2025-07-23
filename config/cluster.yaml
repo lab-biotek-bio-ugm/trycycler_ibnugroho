@@ -1,0 +1,143 @@
+8SKB-BH:
+  cluster_001:
+    - K_utg000001l
+    - D_contig_7
+    - F_Utg5706
+    - E_utg000005l
+    - I_Utg5510
+  cluster_002:
+    - J_contig_3
+    - G_contig_4
+    - A_contig_2
+  cluster_003:
+    - L_Utg5742
+    - G_contig_2
+    - I_Utg5512
+    - D_contig_6
+    - J_contig_4
+    - A_contig_4
+    - F_Utg5710
+  cluster_004:
+    - L_Utg5746
+    - C_Utg5842
+    - H_utg000004l
+    - I_Utg5516
+    - D_contig_5
+    - F_Utg5714
+  cluster_005:
+    - B_utg000001l
+  cluster_006:
+    - H_utg000001l
+  cluster_007:
+    - C_Utg5848
+  cluster_008:
+    - E_utg000003l
+    - C_Utg5840
+    - K_utg000005l
+  cluster_009:
+    - E_utg000001c
+    - F_Utg5702
+    - G_contig_12
+    - D_contig_13
+    - H_utg000003c
+    - K_utg000003c
+    - C_Utg5852
+    - L_Utg5754
+    - B_utg000003c
+    - J_contig_8
+    - I_Utg5504
+    - A_contig_9
+  cluster_010:
+    - L_Utg5750
+  cluster_011:
+    - E_utg000004l
+    - K_utg000004l
+  cluster_012:
+    - B_utg000002l
+  cluster_013:
+    - E_utg000002l
+    - K_utg000002l
+  cluster_014:
+    - L_Utg5752
+  cluster_015:
+    - K_utg000006l
+  cluster_016:
+    - F_Utg5708
+    - I_Utg5520
+    - L_Utg5758
+    - J_contig_1
+    - E_utg000007l
+    - K_utg000007l
+    - D_contig_16
+  cluster_017:
+    - D_contig_8
+    - G_contig_5
+    - A_contig_5
+  cluster_018:
+    - F_Utg5716
+    - L_Utg5756
+    - E_utg000009l
+    - D_contig_15
+    - J_contig_7
+    - I_Utg5518
+    - K_utg000009l
+  cluster_019:
+    - I_Utg5508
+    - D_contig_12
+    - G_contig_11
+    - A_contig_12
+    - L_Utg5740
+    - F_Utg5704
+    - K_utg000008c
+    - E_utg000008c
+    - J_contig_9
+    - H_utg000006c
+    - C_Utg5838
+    - B_utg000004c
+  cluster_020:
+    - I_Utg5514
+    - F_Utg5718
+    - E_utg000011l
+    - H_utg000007l
+    - G_contig_3
+    - C_Utg5856
+    - L_Utg5748
+  cluster_021:
+    - H_utg000002l
+    - G_contig_9
+  cluster_022:
+    - E_utg000006l
+  cluster_023:
+    - F_Utg5722
+    - C_Utg5846
+    - E_utg000010l
+    - L_Utg5744
+  cluster_024:
+    - H_utg000005l
+  cluster_025:
+    - C_Utg5854
+    - I_Utg5522
+    - E_utg000012l
+    - F_Utg5712
+  cluster_026:
+    - G_contig_7
+    - A_contig_6
+    - D_contig_11
+  cluster_027:
+    - A_contig_10
+  cluster_028:
+    - A_contig_11
+    - G_contig_8
+    - D_contig_10
+  cluster_029:
+    - D_contig_9
+    - G_contig_6
+  cluster_030:
+    - D_contig_1
+    - G_contig_1
+    - A_contig_8
+    - J_contig_5
+  cluster_031:
+    - B_utg000005l
+  cluster_032:
+    - A_contig_7
