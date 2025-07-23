@@ -31,3 +31,9 @@ python scripts/gdrive_downloader.py \
   --output-directory ./data/raw \
   --credentials-path secrets/credentials.json
 ```
+
+## Run trycyler assembly
+
+```bash
+snakemake --snakefile workflow/Snakefile-assembly --use-conda --cores 24
+```
