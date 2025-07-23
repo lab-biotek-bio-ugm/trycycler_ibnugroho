@@ -1,7 +1,7 @@
 # trycycler_ibnugroho
 
 ## Pre-requisite
-1. Install miniforge:
+1. Install miniforge: https://github.com/conda-forge/miniforge
 
 2. Set up trycycler snakemake wrapper
 
